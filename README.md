@@ -19,9 +19,7 @@ HTML Editor support following features.
 - Responsive design for mobile
 - Works offline
 
-Demo are available at [https://rioastamal.net/html-editor/](https://rioastamal.net/html-editor/)
 
-![Demo HTML Editor](https://s3.amazonaws.com/rioastamal-assets/html-editor/html-editor-demo.gif)
 
 ## Run
 
