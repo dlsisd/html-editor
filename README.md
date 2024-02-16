@@ -1,3 +1,7 @@
+This is a modern redesign of the HTML editor app.
+
+Features: Theming
+
 ## About
 
 A small and lighting fast in-browser HTML editor with syntax highlighting and instant preview for code you type. It is a great tool for HTML prototyping since you do not have to save the file everytime you want to make the changes. On top of that it's only single HTML file and works offline too.
